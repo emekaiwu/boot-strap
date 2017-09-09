@@ -2010,6 +2010,7 @@ pre code {
   }
   .col-md-pull-0 {
     right: auto;
+    bottom: 15.5em;
   }
   .col-md-push-12 {
     left: 100%;
@@ -2049,6 +2050,7 @@ pre code {
   }
   .col-md-push-0 {
     left: auto;
+    top: 14em;
   }
   .col-md-offset-12 {
     margin-left: 100%;
